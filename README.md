@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Ask me about Data Science, Machine Learning, AI**
+- 💬 Ask me about  Data Science, Machine Learning, AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
