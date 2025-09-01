@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramannagari Chakravardhan</h1>
 <h3 align="center">A data science learner exploring AI & ML</h3>
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1AmDfRaq4Eh5VUw8UMXd3G&ust=1756840764937000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCC1oGkuI8DFQAAAAAdAAAAABAL
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramannagarichakravardhan0608&label=Profile%20views&color=0e75b6&style=flat" alt="ramannagarichakravardhan0608" /> </p>
 
