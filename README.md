@@ -1,3 +1,10 @@
+<!-- Animated Typing Header -->
+<p align="center">
+  <a href="https://github.com/ramannagarichakravardhan0608">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Ramannagari+Chakravardhan;Data+Science+Learner;AI+%26+ML+Enthusiast;Python+%7C+ML+%7C+DL+%7C+Data+Analytics" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ramannagari Chakravardhan</h1>
 <h3 align="center">✨ Data Science Learner | AI & ML Enthusiast ✨</h3>
 
@@ -53,5 +60,6 @@
 ---
 
 ## 🚀 Let’s Build Something Amazing with Data & AI!
+
 
 
