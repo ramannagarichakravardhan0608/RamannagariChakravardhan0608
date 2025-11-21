@@ -1,29 +1,57 @@
 <h1 align="center">Hi 👋, I'm Ramannagari Chakravardhan</h1>
-<h3 align="center">A data science learner exploring AI & ML</h3>
+<h3 align="center">✨ Data Science Learner | AI & ML Enthusiast ✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramannagarichakravardhan0608&label=Profile%20views&color=0e75b6&style=flat" alt="ramannagarichakravardhan0608" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramannagarichakravardhan0608&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
+</p>
 
-- 🌱 I’m currently learning Data Science
+---
 
-- 💬 Ask me about  Data Science, Machine Learning, AI
+## 🌱 About Me  
+- 🔭 Passionate about **Data Science & Artificial Intelligence**  
+- 🌱 Currently learning **Machine Learning, Deep Learning & Data Analytics**  
+- 💬 Ask me about **Python | Data Science | Machine Learning | AI**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🔗 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/ramannagarichakravardhan/" target="_blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="LinkedIn Profile" 
-       height="30" 
-       width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/ramannagarichakravardhan/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="45" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="45" />
+  <img src="https://skillicons.dev/icons?i=seaborn" height="45" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramannagarichakravardhan0608&show_icons=true&locale=en&layout=compact" alt="ramannagarichakravardhan0608" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramannagarichakravardhan0608&show_icons=true&locale=en" alt="ramannagarichakravardhan0608" /></p>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramannagarichakravardhan0608&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramannagarichakravardhan0608&layout=compact&theme=tokyonight" height="170" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramannagarichakravardhan0608&" alt="ramannagarichakravardhan0608" /></p>
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramannagarichakravardhan0608&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## 🚀 Let’s Build Something Amazing with Data & AI!
+
 
