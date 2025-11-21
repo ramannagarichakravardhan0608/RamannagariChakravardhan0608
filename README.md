@@ -1,32 +1,30 @@
-<!-- Professional Animated Header -->
+<!-- Professional Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1200&color=00B2FF&center=true&vCenter=true&width=700&lines=Ramannagari+Chakravardhan;Data+Science+Learner;AI+%7C+Machine+Learning+Enthusiast;Transforming+Data+Into+Intelligence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Ramannagari+Chakravardhan;Data+Science+Learner;AI+%7C+Machine+Learning+Enthusiast;Building+Data-Driven+Solutions" />
 </p>
 
-<!-- Name & Title -->
 <h1 align="center">Ramannagari Chakravardhan</h1>
-<h3 align="center" style="font-weight:500;">Data Science Learner • Machine Learning • Artificial Intelligence</h3>
+<h3 align="center" style="font-weight:400;">Data Science Learner • Machine Learning • Artificial Intelligence</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramannagarichakravardhan0608&label=Profile%20Views&color=0aa6ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ramannagarichakravardhan0608&label=Profile%20Views&color=1E90FF&style=flat-square" />
 </p>
 
 ---
 
 ## 📌 About Me
-I am an aspiring **Data Science and AI professional**, passionate about building intelligent systems that solve real-world problems.  
-Focused on gaining strong expertise in:
+I am an aspiring **Data Science and AI professional**, focused on developing strong analytical and machine learning skills.  
+I enjoy working with data, solving problems, and creating models that bring meaningful insights.
 
-- Machine Learning & Deep Learning  
-- Python for Data Science  
-- Data Analytics & Visualization  
-- AI Applications & Automation  
-
-I believe in **clean code, meaningful insights, and continuous learning**.
+**Key Interests:**
+- Machine Learning & Predictive Modelling  
+- Deep Learning & Neural Networks  
+- Data Cleaning, Exploration & Visualization  
+- Real-world AI Applications  
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/ramannagarichakravardhan/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
@@ -35,7 +33,7 @@ I believe in **clean code, meaningful insights, and continuous learning**.
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="50" />
   <img src="https://skillicons.dev/icons?i=pandas" height="50" />
@@ -49,27 +47,28 @@ I believe in **clean code, meaningful insights, and continuous learning**.
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramannagarichakravardhan0608&show_icons=true&theme=transparent&title_color=0aa6ff&text_color=ffffff&icon_color=0aa6ff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramannagarichakravardhan0608&layout=compact&theme=transparent&title_color=0aa6ff&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramannagarichakravardhan0608&show_icons=true&theme=transparent&title_color=1E90FF&text_color=FFFFFF&icon_color=1E90FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramannagarichakravardhan0608&layout=compact&theme=transparent&title_color=1E90FF&text_color=FFFFFF" height="165" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramannagarichakravardhan0608&theme=dark&hide_border=false&ring=00B2FF&fire=00B2FF&currStreakLabel=00B2FF&sideLabels=00B2FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramannagarichakravardhan0608&theme=dark&hide_border=false&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=1E90FF" />
 </p>
 
 ---
 
-## 🎯 Vision
-My goal is to become a **skilled Data Scientist** capable of designing impactful AI systems and driving insights through data-driven thinking.
+## 🎯 Career Focus
+My long-term vision is to become a **Data Scientist** capable of developing impactful AI models and solving real-world business problems using data-driven approaches.
 
 ---
 
-## 🚀 Let’s Build the Future with AI
+## 🚀 Driven by Learning. Powered by Data.
+
 
 
 
