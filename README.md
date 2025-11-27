@@ -39,7 +39,7 @@ I love solving problems using **Machine Learning, Deep Learning, NLP, and Data A
 
 # 🎨 Technical Skillset  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,opencv,matplotlib,seaborn,mysql,git,github,vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,opencv,matplotlib,seaborn,mysql,git,github,vscode&perline=14" height="55" />
 </p>
 
 ---
@@ -92,7 +92,6 @@ To become a **high-performing AI/ML Engineer** who builds solutions that create 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=Excellence+Through+Learning;Impact+Through+Data;Future+Built+With+AI" />
 </p>
-
 
 
 
