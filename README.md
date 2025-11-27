@@ -1,92 +1,98 @@
-<!-- Professional Animated Intro -->
+<!-- Elegant Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=900&color=008CFF&center=true&vCenter=true&width=800&lines=Ramannagari+Chakravardhan;Data+Science+Learner;Machine+Learning+%7C+Artificial+Intelligence;Building+Meaningful+Data+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=900&lines=Ramannagari+Chakravardhan;Machine+Learning+Engineer+%7C+AI+Developer;Data+Science+Enthusiast;Building+Impactful+AI+Solutions" />
 </p>
 
-<h1 align="center">Ramannagari Chakravardhan</h1>
-<h3 align="center">Data Science Learner • Machine Learning • Artificial Intelligence</h3>
+<!-- Name -->
+<h1 align="center">✨ Ramannagari Chakravardhan ✨</h1>
+<h3 align="center">AI • Machine Learning • Data Science • Developer</h3>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramannagarichakravardhan0608&label=Profile%20Views&color=008CFF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ramannagarichakravardhan0608&label=Profile%20Views&color=00C6FF&style=flat-square" />
 </p>
 
 ---
 
-## 📌 About Me  
-I am an emerging **Data Science and AI professional** passionate about using data to derive insights and build intelligent systems.  
-My work focuses on **clarity, accuracy, and creating real-world impact** through Machine Learning and Analytics.
+# 🌟 About Me  
+I am a **Machine Learning & AI Developer** passionate about converting ideas into **real working AI solutions**.  
+My goal is to build systems that are:
 
-### **Areas of Interest**
-- Predictive Modelling & Machine Learning  
-- Neural Networks & Deep Learning  
-- Data Cleaning, Visualization & Statistical Analysis  
-- End-to-End ML Pipelines & AI Automation  
+- Precise  
+- Scalable  
+- Fast  
+- Useful in the real world  
 
-I believe in building solutions that are **simple, scalable, and truly meaningful**.
-
----
-
-## 🔗 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/ramannagarichakravardhan/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="46" />
-  </a>
-</p>
+I love solving problems using **Machine Learning, Deep Learning, NLP, and Data Analytics**.
 
 ---
 
-## 🛠️ Technical Skills  
+# 🚀 What I Do  
+### ✔ Machine Learning & Predictive Modeling  
+### ✔ Neural Networks & Deep Learning  
+### ✔ NLP, Sentiment Analysis & Text Intelligence  
+### ✔ Computer Vision & Image Processing  
+### ✔ End-to-End AI App Development  
+### ✔ Data Cleaning, EDA & Visualization  
+
+---
+
+# 🎨 Technical Skillset  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="48" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="48" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="48" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="48" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="48" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="48" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,opencv,matplotlib,seaborn,mysql,git,github,vscode" height="50" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+# 🚀 Featured Projects  
 ### 🔹 **AI Game Generator**  
-An automated system that generates complete Python games using AI workflows.
+Builds complete Python games automatically using AI workflows.
 
 ### 🔹 **Sentiment Analysis – Blackcoffer**  
-Full NLP pipeline for article sentiment scoring and text classification.
+Advanced NLP pipeline for text sentiment scoring and classification.
 
-### 🔹 **Student Exam Readiness Analysis**  
-Data cleaning, visualization, and modeling to analyze student behavior.
+### 🔹 **Exam Readiness Data Analysis**  
+Visualizations, insights, correlations, and predictive analytics.
 
 ### 🔹 **Shell.ai Hackathon – Fuel Blend Prediction**  
-Machine learning solution to predict sustainable fuel blend properties.
+ML models for sustainable fuel blend property predictions.
 
 ---
 
-## 📊 GitHub Analytics  
+# 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramannagarichakravardhan0608&show_icons=true&theme=transparent&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramannagarichakravardhan0608&layout=compact&theme=transparent&title_color=008CFF&text_color=FFFFFF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramannagarichakravardhan0608&show_icons=true&theme=transparent&title_color=00C6FF&text_color=FFFFFF&icon_color=00C6FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramannagarichakravardhan0608&layout=compact&theme=transparent&title_color=00C6FF&text_color=FFFFFF" height="170" />
 </p>
 
 ---
 
-## 🔥 Contribution History  
+# 🔥 Contribution Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramannagarichakravardhan0608&theme=dark&hide_border=false&ring=008CFF&fire=008CFF&currStreakLabel=008CFF&sideLabels=008CFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramannagarichakravardhan0608&theme=dark&hide_border=false&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=00C6FF" />
 </p>
 
 ---
 
-## 🎯 Professional Goal  
-To become a **skilled Data Scientist** capable of designing robust ML systems and delivering intelligent, high-impact solutions.
+# 🧠 Knowledge Areas  
+- Supervised & Unsupervised Learning  
+- CNNs, RNNs, Transformers  
+- Model Evaluation, Hyperparameter Tuning  
+- API Deployment (Flask/FastAPI)  
+- Streamlit App Development  
+- Data Pipelines & Preprocessing  
+
+---
+
+# 🎯 My Vision  
+To become a **high-performing AI/ML Engineer** who builds solutions that create measurable impact.
 
 ---
 
 <p align="center">
-  <b>🚀 Excellence Through Learning. Impact Through Data.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=Excellence+Through+Learning;Impact+Through+Data;Future+Built+With+AI" />
 </p>
+
 
 
 
