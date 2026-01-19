@@ -24,12 +24,19 @@
 
 ---
 
-## Professional Summary (Recruiter Optimized)
+## Professional Summary
 
-Machine Learning & AI Engineer with hands-on experience in building **scalable, production-grade intelligent systems**.  
-Strong background in **data science, deep learning, NLP, and computer vision**, with a focus on solving real-world business problems using data-driven approaches.
+Machine Learning & AI Engineer with hands-on experience in building  
+**scalable, production-grade intelligent systems**.
 
-Actively seeking opportunities where **AI meets impact**.
+Strong expertise in:
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- End-to-End AI Application Development
+
+Actively seeking opportunities where **AI meets real-world impact**.
 
 ---
 
@@ -49,19 +56,19 @@ Actively seeking opportunities where **AI meets impact**.
 <p align="center">
 
 **Python**
-<img src="https://progress-bar.dev/90/?scale=100&title=&width=400&color=00E5FF" />
+<img src="https://progress-bar.dev/90/?scale=100&width=400&color=00E5FF" />
 
 **Machine Learning**
-<img src="https://progress-bar.dev/85/?scale=100&title=&width=400&color=00E5FF" />
+<img src="https://progress-bar.dev/85/?scale=100&width=400&color=00E5FF" />
 
 **Deep Learning**
-<img src="https://progress-bar.dev/80/?scale=100&title=&width=400&color=00E5FF" />
+<img src="https://progress-bar.dev/80/?scale=100&width=400&color=00E5FF" />
 
 **NLP**
-<img src="https://progress-bar.dev/75/?scale=100&title=&width=400&color=00E5FF" />
+<img src="https://progress-bar.dev/75/?scale=100&width=400&color=00E5FF" />
 
 **Computer Vision**
-<img src="https://progress-bar.dev/70/?scale=100&title=&width=400&color=00E5FF" />
+<img src="https://progress-bar.dev/70/?scale=100&width=400&color=00E5FF" />
 
 </p>
 
@@ -75,35 +82,48 @@ Actively seeking opportunities where **AI meets impact**.
 
 ---
 
-## Featured Projects (Dynamic Cards)
+## 🚀 Featured Projects (REAL & SAFE)
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/ramannagarichakravardhan0608/AI-Game-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramannagarichakravardhan0608&repo=AI-Game-Generator&theme=transparent&title_color=00E5FF&text_color=FFFFFF" />
-</a>
+### 🤖 AI Chatbot Mentor  
+**Restricted Learning Assistant using Streamlit & LangChain**
 
-<a href="https://github.com/ramannagarichakravardhan0608/Blackcoffer-Sentiment-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramannagarichakravardhan0608&repo=Blackcoffer-Sentiment-Analysis&theme=transparent&title_color=00E5FF&text_color=FFFFFF" />
-</a>
+- Domain-restricted AI mentor  
+- Streamlit interface  
+- LangChain-powered responses  
+- Secure learning flow  
 
-<a href="https://github.com/ramannagarichakravardhan0608/Exam-Readiness-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramannagarichakravardhan0608&repo=Exam-Readiness-Analysis&theme=transparent&title_color=00E5FF&text_color=FFFFFF" />
-</a>
+🔗 **GitHub:**  
+https://github.com/ramannagarichakravardhan0608/AI-Chatbot-Mentor-Module-Restricted-Learning-Assistant-using-Streamlit-LangChain
 
-<a href="https://github.com/ramannagarichakravardhan0608/ShellAI-Fuel-Blend-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramannagarichakravardhan0608&repo=ShellAI-Fuel-Blend-Prediction&theme=transparent&title_color=00E5FF&text_color=FFFFFF" />
-</a>
+</td>
 
-</p>
+<td width="50%">
+
+### 🎮 n8n Auto Game Generator  
+**AI-powered automatic game creation system**
+
+- n8n workflow automation  
+- AI-generated Python games  
+- End-to-end execution  
+
+🔗 **GitHub:**  
+https://github.com/ramannagarichakravardhan0608/n8n-auto-game-generator
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Analytics (Auto Dark / Light)
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramannagarichakravardhan0608&show_icons=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramannagarichakravardhan0608&layout=compact&theme=transparent&title_color=00E5FF&text_color=FFFFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramannagarichakravardhan0608&show_icons=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramannagarichakravardhan0608&layout=compact&theme=transparent&title_color=00E5FF" height="170" />
 </p>
 
 ---
@@ -128,7 +148,8 @@ Actively seeking opportunities where **AI meets impact**.
 
 ## Vision
 
-To become a **high-impact AI Engineer**, delivering intelligent, scalable solutions that create measurable real-world value.
+To become a **high-impact AI Engineer**, building intelligent systems that deliver  
+**scalable, measurable, real-world value**.
 
 ---
 
@@ -138,6 +159,5 @@ To become a **high-impact AI Engineer**, delivering intelligent, scalable soluti
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Engineering+Intelligence;Turning+Data+Into+Decisions;AI+That+Scales;Learning+Never+Stops" />
 </p>
-
 
 
