@@ -1,10 +1,12 @@
-<!-- Futuristic Typing Intro -->
+<!-- ===================== -->
+<!-- AI Typing Intro -->
+<!-- ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Ramannagari+Chakravardhan;AI+%7C+Machine+Learning+Engineer;Data+Science+Enthusiast;Crafting+Intelligent+Solutions+With+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=Ramannagari+Chakravardhan;AI+%7C+Machine+Learning+Engineer;Data+Science+Specialist;Designing+Production-Ready+AI+Systems" />
 </p>
 
-<h1 align="center">✨ Ramannagari Chakravardhan ✨</h1>
-<h3 align="center">AI • Machine Learning • Data Science • Developer</h3>
+<h1 align="center">Ramannagari Chakravardhan</h1>
+<h3 align="center">AI Engineer • Machine Learning • Data Science</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramannagarichakravardhan0608&label=Profile%20Views&color=00E5FF&style=flat-square" />
@@ -12,111 +14,130 @@
 
 ---
 
-# 🌟 About Me  
-I am a **Machine Learning & AI Developer** dedicated to converting ideas into **powerful real-world AI systems**.
-
-I build solutions that are:  
-- Fast ⚡  
-- Scalable 📈  
-- Accurate 🎯  
-- Production-ready 🧠  
-
-I enjoy solving real-world challenges using:  
-**Machine Learning, Deep Learning, NLP, Data Analytics, and End-to-End AI Systems.**
-
----
-
-# 🚀 What I Do  
-- ✔ Machine Learning & Predictive Modeling  
-- ✔ Deep Learning (CNNs, RNNs, Transformers)  
-- ✔ Natural Language Processing  
-- ✔ Computer Vision  
-- ✔ AI Automation  
-- ✔ Data Analysis, EDA & Visualization  
-
----
-
-# 🎨 Technical Skillset  
+<!-- ===================== -->
+<!-- AI Brain Animation -->
+<!-- ===================== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,opencv,matplotlib,seaborn,mysql,git,github,vscode&perline=14" height="60" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
 
 ---
 
-# 🚀 Featured Projects  
+## Professional Summary (Recruiter Optimized)
 
-## 🔥 **Top AI Projects (Premium Badges)**  
+Machine Learning & AI Engineer with hands-on experience in building **scalable, production-grade intelligent systems**.  
+Strong background in **data science, deep learning, NLP, and computer vision**, with a focus on solving real-world business problems using data-driven approaches.
+
+Actively seeking opportunities where **AI meets impact**.
+
+---
+
+## Core Expertise
+
+- Machine Learning & Predictive Modeling  
+- Deep Learning (CNNs, RNNs, Transformers)  
+- Natural Language Processing  
+- Computer Vision Systems  
+- Data Analytics & Feature Engineering  
+- AI APIs & Deployment (Flask, FastAPI, Streamlit)
+
+---
+
+## Technical Skills (Animated)
+
 <p align="center">
 
-  <a href="https://github.com/ramannagarichakravardhan0608/AI-Game-Generator">
-    <img src="https://img.shields.io/badge/AI_Game_Generator-00E5FF?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
+**Python**
+<img src="https://progress-bar.dev/90/?scale=100&title=&width=400&color=00E5FF" />
 
-  <a href="https://github.com/ramannagarichakravardhan0608/Blackcoffer-Sentiment-Analysis">
-    <img src="https://img.shields.io/badge/Sentiment_Analysis-FF4F6D?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
+**Machine Learning**
+<img src="https://progress-bar.dev/85/?scale=100&title=&width=400&color=00E5FF" />
 
-  <a href="https://github.com/ramannagarichakravardhan0608/Exam-Readiness-Analysis">
-    <img src="https://img.shields.io/badge/Exam_Analysis-AE44FF?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  </a>
+**Deep Learning**
+<img src="https://progress-bar.dev/80/?scale=100&title=&width=400&color=00E5FF" />
 
-  <a href="https://github.com/ramannagarichakravardhan0608/ShellAI-Fuel-Blend-Prediction">
-    <img src="https://img.shields.io/badge/Shell.ai_Fuel_Prediction-F3A712?style=for-the-badge&logo=code&logoColor=white" />
-  </a>
+**NLP**
+<img src="https://progress-bar.dev/75/?scale=100&title=&width=400&color=00E5FF" />
+
+**Computer Vision**
+<img src="https://progress-bar.dev/70/?scale=100&title=&width=400&color=00E5FF" />
 
 </p>
 
 ---
 
-# 🏆 Trophy Showcase (Premium Mode)  
+## Tech Stack
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramannagarichakravardhan0608&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch,opencv,mysql,git,github,vscode&perline=11" />
 </p>
 
 ---
 
-# 📈 Activity Graph (Neon Glow)  
+## Featured Projects (Dynamic Cards)
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramannagarichakravardhan0608&theme=react-dark&bg_color=000000&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" />
+
+<a href="https://github.com/ramannagarichakravardhan0608/AI-Game-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramannagarichakravardhan0608&repo=AI-Game-Generator&theme=transparent&title_color=00E5FF&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/ramannagarichakravardhan0608/Blackcoffer-Sentiment-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramannagarichakravardhan0608&repo=Blackcoffer-Sentiment-Analysis&theme=transparent&title_color=00E5FF&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/ramannagarichakravardhan0608/Exam-Readiness-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramannagarichakravardhan0608&repo=Exam-Readiness-Analysis&theme=transparent&title_color=00E5FF&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/ramannagarichakravardhan0608/ShellAI-Fuel-Blend-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramannagarichakravardhan0608&repo=ShellAI-Fuel-Blend-Prediction&theme=transparent&title_color=00E5FF&text_color=FFFFFF" />
+</a>
+
 </p>
 
 ---
 
-# 📊 Premium GitHub Analytics  
+## GitHub Analytics (Auto Dark / Light)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramannagarichakravardhan0608&show_icons=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF" height="170" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramannagarichakravardhan0608&layout=compact&theme=transparent&title_color=00E5FF&text_color=FFFFFF" height="170" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak (Neon Style)  
+## Contribution Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramannagarichakravardhan0608&theme=dark&hide_border=false&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramannagarichakravardhan0608&theme=dark&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 </p>
 
 ---
 
-# 🧠 Knowledge Areas  
-- Supervised & Unsupervised ML  
-- CNNs, RNNs, Transformers  
-- Hyperparameter Tuning  
-- API Development (Flask/FastAPI)  
-- Streamlit App Deployment  
-- Data Pipelines & Automation  
+## Knowledge Areas
+
+- Supervised & Unsupervised Learning  
+- Model Optimization & Hyperparameter Tuning  
+- Feature Engineering  
+- REST APIs for ML Models  
+- End-to-End AI Pipelines  
 
 ---
 
-# 🎯 Vision  
-To become a **top-performing ML/AI Engineer**, building impactful, scalable, and intelligent solutions that redefine real-world problem-solving.
+## Vision
+
+To become a **high-impact AI Engineer**, delivering intelligent, scalable solutions that create measurable real-world value.
 
 ---
 
+<!-- ===================== -->
+<!-- AI Tagline Generator -->
+<!-- ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Excellence+Through+Learning;Impact+Through+Data;Engineering+The+Future+With+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Engineering+Intelligence;Turning+Data+Into+Decisions;AI+That+Scales;Learning+Never+Stops" />
 </p>
-
 
 
 
