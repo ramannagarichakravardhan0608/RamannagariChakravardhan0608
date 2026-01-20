@@ -1,12 +1,12 @@
-<!-- ===================== -->
-<!-- AI Typing Intro -->
-<!-- ===================== -->
+<!-- ================================================= -->
+<!-- HERO SECTION -->
+<!-- ================================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=Ramannagari+Chakravardhan;AI+%7C+Machine+Learning+Engineer;Data+Science+Specialist;Designing+Production-Ready+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=1000&lines=Ramannagari+Chakravardhan;AI+Engineer+%7C+Machine+Learning+%7C+Data+Science;Building+Production-Ready+AI+Systems" />
 </p>
 
 <h1 align="center">Ramannagari Chakravardhan</h1>
-<h3 align="center">AI Engineer • Machine Learning • Data Science</h3>
+<h3 align="center">AI Engineer · Machine Learning · Data Science</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramannagarichakravardhan0608&label=Profile%20Views&color=00E5FF&style=flat-square" />
@@ -14,9 +14,9 @@
 
 ---
 
-<!-- ===================== -->
-<!-- AI Brain Animation -->
-<!-- ===================== -->
+<!-- ================================================= -->
+<!-- CONTRIBUTION VISUAL -->
+<!-- ================================================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
@@ -27,54 +27,54 @@
 ## Professional Summary
 
 Machine Learning & AI Engineer with hands-on experience in building  
-**scalable, production-grade intelligent systems**.
+**scalable, secure, and production-grade AI systems**.
 
-Strong expertise in:
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- End-to-End AI Application Development
+Focused on transforming **data into deployable intelligence** with real-world impact.
 
-Actively seeking opportunities where **AI meets real-world impact**.
+**Expertise includes:**
+- Machine Learning & Statistical Modeling
+- Deep Learning & Neural Networks
+- NLP & Computer Vision
+- End-to-End AI Product Development
+- API Deployment & Model Serving
 
 ---
 
-## Core Expertise
+## Core Competencies
 
-- Machine Learning & Predictive Modeling  
+- Predictive Modeling & ML Pipelines  
 - Deep Learning (CNNs, RNNs, Transformers)  
 - Natural Language Processing  
-- Computer Vision Systems  
-- Data Analytics & Feature Engineering  
-- AI APIs & Deployment (Flask, FastAPI, Streamlit)
+- Computer Vision Applications  
+- Feature Engineering & Optimization  
+- Flask, FastAPI, Streamlit Deployment  
 
 ---
 
-## Technical Skills (Animated)
+## Technical Proficiency
 
 <p align="center">
 
-**Python**
-<img src="https://progress-bar.dev/90/?scale=100&width=400&color=00E5FF" />
+<strong>Python</strong><br>
+<img src="https://progress-bar.dev/90/?scale=100&width=500&color=00E5FF" />
 
-**Machine Learning**
-<img src="https://progress-bar.dev/85/?scale=100&width=400&color=00E5FF" />
+<strong>Machine Learning</strong><br>
+<img src="https://progress-bar.dev/85/?scale=100&width=500&color=00E5FF" />
 
-**Deep Learning**
-<img src="https://progress-bar.dev/80/?scale=100&width=400&color=00E5FF" />
+<strong>Deep Learning</strong><br>
+<img src="https://progress-bar.dev/80/?scale=100&width=500&color=00E5FF" />
 
-**NLP**
-<img src="https://progress-bar.dev/75/?scale=100&width=400&color=00E5FF" />
+<strong>Natural Language Processing</strong><br>
+<img src="https://progress-bar.dev/75/?scale=100&width=500&color=00E5FF" />
 
-**Computer Vision**
-<img src="https://progress-bar.dev/70/?scale=100&width=400&color=00E5FF" />
+<strong>Computer Vision</strong><br>
+<img src="https://progress-bar.dev/70/?scale=100&width=500&color=00E5FF" />
 
 </p>
 
 ---
 
-## Tech Stack
+## Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch,opencv,mysql,git,github,vscode&perline=11" />
@@ -82,35 +82,35 @@ Actively seeking opportunities where **AI meets real-world impact**.
 
 ---
 
-## 🚀 Featured Projects (REAL & SAFE)
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI Chatbot Mentor  
-**Restricted Learning Assistant using Streamlit & LangChain**
+### AI Chatbot Mentor  
+**Restricted Learning Assistant**
 
-- Domain-restricted AI mentor  
-- Streamlit interface  
-- LangChain-powered responses  
-- Secure learning flow  
+- Domain-controlled AI mentor system  
+- Streamlit-based interactive UI  
+- LangChain-powered response handling  
+- Secure and focused learning flow  
 
-🔗 **GitHub:**  
+**GitHub Repository:**  
 https://github.com/ramannagarichakravardhan0608/AI-Chatbot-Mentor-Module-Restricted-Learning-Assistant-using-Streamlit-LangChain
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 n8n Auto Game Generator  
-**AI-powered automatic game creation system**
+### n8n Auto Game Generator  
+**AI-driven automated game creation**
 
-- n8n workflow automation  
-- AI-generated Python games  
-- End-to-end execution  
+- n8n workflow orchestration  
+- AI-generated Python game logic  
+- Fully automated execution pipeline  
 
-🔗 **GitHub:**  
+**GitHub Repository:**  
 https://github.com/ramannagarichakravardhan0608/n8n-auto-game-generator
 
 </td>
@@ -128,7 +128,7 @@ https://github.com/ramannagarichakravardhan0608/n8n-auto-game-generator
 
 ---
 
-## Contribution Streak
+## Contribution Consistency
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ramannagarichakravardhan0608&theme=dark&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
@@ -139,25 +139,24 @@ https://github.com/ramannagarichakravardhan0608/n8n-auto-game-generator
 ## Knowledge Areas
 
 - Supervised & Unsupervised Learning  
-- Model Optimization & Hyperparameter Tuning  
+- Hyperparameter Optimization  
 - Feature Engineering  
-- REST APIs for ML Models  
+- REST APIs for Machine Learning  
 - End-to-End AI Pipelines  
 
 ---
 
-## Vision
+## Career Vision
 
-To become a **high-impact AI Engineer**, building intelligent systems that deliver  
-**scalable, measurable, real-world value**.
+To become a **high-impact AI Engineer** focused on building  
+**scalable, reliable, and real-world AI systems** that create measurable value.
 
 ---
 
-<!-- ===================== -->
-<!-- AI Tagline Generator -->
-<!-- ===================== -->
+<!-- ================================================= -->
+<!-- CLOSING TAGLINE -->
+<!-- ================================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Engineering+Intelligence;Turning+Data+Into+Decisions;AI+That+Scales;Learning+Never+Stops" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Engineering+Intelligence;Turning+Data+Into+Impact;AI+Built+for+Scale;Continuous+Learning" />
 </p>
-
 
